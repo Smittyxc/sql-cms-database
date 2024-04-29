@@ -1,4 +1,4 @@
-# CMS Value Based Programs Financial and Readmission MySQL Database
+# CMS Financial and Hospital Readmission MySQL Database
 
 - **Author**: Matthew Smith
 
@@ -19,4 +19,4 @@ The three [datasets](cms_vbi/csv) are the latest release from CMS as of 3/26/202
 
 
 ## Entity Relationship Diagram
-![eer](/assets/cms_eer.png)
+![eer](/cms_eer.png)
